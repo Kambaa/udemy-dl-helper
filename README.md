@@ -1,5 +1,5 @@
 # udemy-dl-helper
-A windows command line helper for easily using the udemy-dl
+A windows command line helper for easily using the [udemy-dl](https://github.com/r0oth3x49/udemy-dl)
 
 ## Usage Instructions: 
 Copy bat file to the udemy-dl folder and run it.
